@@ -4,4 +4,15 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="retry">Retry</string>
     <string name="no_internet">No Internet</string>
+    <string name="favourites">Favourites.</string>
+    <string name="operativ_media">Operativ Media</string>
+    <string name="search">Search.</string>
+    <string name="search_news">Search news...</string>
+    <string name="source">SOURCE</string>
+    <string name="title">TITLE</string>
+    <string name="description">DESCRIPTION</string>
+    <string name="date_time">DATE TIME</string>
+    <string name="todo">TODO</string>
+    <string name="article_database">article_database</string>
+    <string name="added_to_favourites">Added to favourites</string>
 </resources>

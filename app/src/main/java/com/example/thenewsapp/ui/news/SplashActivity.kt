@@ -1,4 +1,4 @@
-package com.example.thenewsapp.ui
+package com.example.thenewsapp.ui.news
 
 import android.annotation.SuppressLint
 import android.content.Intent
@@ -6,6 +6,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
+import com.example.thenewsapp.NewsActivity
 import com.example.thenewsapp.R
 
 @SuppressLint("CustomSplashScreen")
@@ -17,6 +18,6 @@ class SplashActivity : AppCompatActivity() {
             val intent = Intent(this, NewsActivity::class.java)
             startActivity(intent)
             finish()
-        },3000)
+        },1000)
     }
 }
